@@ -1,0 +1,8 @@
+Imbalanced classification:
+
+OverSampling outperforms UnderSampling
+
+	1. Random UnderSampling -- info lost
+	2. Random OverSampling -- overfitting
+	3. Cluster based OverSampling -- overfitting, overcome imbalance within class
+	
